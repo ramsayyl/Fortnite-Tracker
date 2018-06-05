@@ -1,2 +1,1 @@
-# Fortnite-Tracker
-Final version 
+# Fortnite-Ranker
